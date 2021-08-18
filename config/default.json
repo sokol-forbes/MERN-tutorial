@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret":"sokol stone",
+  "mongoUri":"mongodb+srv://sokol:aFuhSdVXYREBi0hx@cluster0.mn7ca.mongodb.net/Mern-tutorial?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
